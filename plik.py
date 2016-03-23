@@ -4,3 +4,5 @@ def dodawanie():
 	print(a+b)
 	
 dodawanie()
+input()
+
